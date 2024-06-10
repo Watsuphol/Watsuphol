@@ -1,8 +1,8 @@
 Hi 👋 My name is Watsuphol Sinchanachai
 =======================================
 
-Transitioning professional
---------------------------
+Motivated career switcher
+-------------------------
 
 I am a Junior Software Developer Bootcamp graduate seeking a software developer position. I have 2+ years of work experience in research and design, which allowed me to develop communication and teamwork skills. I am eager to apply my previous work experiences and newly developed technical skills to launch my career in the tech sector.
 
