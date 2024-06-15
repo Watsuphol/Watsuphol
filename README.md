@@ -4,7 +4,8 @@ Hi 👋 My name is Watsuphol Sinchanachai
 Motivated career switcher
 -------------------------
 
-I am a Junior Software Developer Bootcamp graduate seeking a software developer position. I have 2+ years of work experience in research and design, which allowed me to develop communication and teamwork skills. I am eager to apply my previous work experiences and newly developed technical skills to launch my career in the tech sector.
+Transitioning from a background in architectural design and product development, I bring strong communication and problem-solving skills to my new career in software development. I completed a Junior Software Developer Bootcamp with Generation Thailand and a Full-Stack Bootcamp at WeStride Institute of Technology. I am eager to apply my technical skills and seek opportunities for further growth in the tech industry. I am committed to integrating my analytical abilities with my newfound expertise in software development.
+
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [wasumc.design@gmail.com](mailto:wasumc.design@gmail.com)
