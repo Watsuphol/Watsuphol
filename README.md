@@ -4,7 +4,7 @@ Hi 👋 My name is Watsuphol Sinchanachai
 Motivated career switcher
 -------------------------
 
-Transitioning from a background in architectural design and product development, I bring strong communication and problem-solving skills to my new career in software development. I completed a Junior Software Developer Bootcamp with Generation Thailand and a Full-Stack Bootcamp at WeStride Institute of Technology. I am eager to apply my technical skills and seek opportunities for further growth in the tech industry. I am committed to integrating my analytical abilities with my newfound expertise in software development.
+Transitioning from a career in architectural design and product development, I am highly motivated to develop software skills. I leverage experience with JavaScript, Node.js, and React.js to build user-centric and performant web applications. I am passionate about pursuing a software developer position where I can utilize my strong communication and problem-solving skills in my new career path. Eager to contribute to a dynamic tech environment, I seek opportunities for continuous growth. I am committed to using my experience, transferable skills, and knowledge to become a valuable member of the development team.![image](https://github.com/Watsuphol/Watsuphol/assets/165820608/ec9f4c36-8a07-4e4e-a7ae-535b7760e050)
 
 
 * 🌍  I'm based in Bangkok, Thailand
