@@ -4,7 +4,8 @@ Hi 👋 My name is Watsuphol Sinchanachai
 Motivated career switcher
 -------------------------
 
-Transitioning from a career in architectural design and product development, I am highly motivated to develop software skills. I leverage experience with JavaScript, Node.js, and React.js to build user-centric and performant web applications. I am passionate about pursuing a software developer position where I can utilize my strong communication and problem-solving skills in my new career path. Eager to contribute to a dynamic tech environment, I seek opportunities for continuous growth. I am committed to using my experience, transferable skills, and knowledge to become a valuable member of the development team.
+Transitioning from a career in architectural design and product development, I am highly motivated to develop software skills. I leverage experience with JavaScript, Node.js, and React.js to build user-centric and performant web applications. I am passionate about pursuing a software developer position where I can utilize my strong communication and problem-solving skills in my new career path. Eager to contribute to a dynamic tech environment, I seek opportunities for continuous growth. I am committed to using my experience, transferable skills, and knowledge to become a valuable development team member.
+
 
 
 * 🌍  I'm based in Bangkok, Thailand
